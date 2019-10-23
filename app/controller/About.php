@@ -20,4 +20,6 @@ class About extends Controller {
 		$this->view('about/page');
 		$this->view('templates/footer');
 	}
+
+
 }
